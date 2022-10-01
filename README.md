@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Products Development, Management & Designs.
 - 📫 Reach me via Twitter DM (@Asharib_4)
 
-→ I'm a consistent, HardWorking and a highly motivated person.
+→ I'm a consistent, Hard Working and a highly motivated person.
 
 → I enjoy working with the public.
 
