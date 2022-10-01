@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on Products Development, Management & Designs.
 - 📫 Reach me via Twitter DM (@Asharib_4)
 
-✨Founder: @Talkn_earn & @B4Bussines | Prev: @IVSprotocol |
-Blockchain Dev👨‍💻 | Building Products For Web3 Adoption🚀 |
-Writer✍️ | Content creater💡| Graphics Designer 🎯 | ❤️ & 🎗️
+→ I'm a consistent, HardWorking and a highly motivated person.
+→ I enjoy working with the public.
+→ I feel that I'm a friendly outgoing, and dependable person.
+→ I feel it is crucial to demonstrate the importance of my job duties and
+expectations.
+→ I am looking to improve my position in the work force.
+→ I want to expand
+ my knowledge and skills.
+
+I've 2+years of experience in community management,
+content & technical writing, graphics designs, as well
+i'm also a blockchain developer.
