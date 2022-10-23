@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Asharib Ali
 - 👀 I’m interested in Blockchain, Web3 & Metaverse.
-- 🌱 I’m currently learning Advance Programming Stuffs.
+- 🌱 I’m currently learning Programming Stuffs.
 - 💞️ I’m looking to collaborate on Products Development, Management & Designs.
-- 📫 Reach me via Twitter or Telegram DM (@Asharib_4)
+- 📫 Reach me via Telegram DM (@Asharib_4)
 
 → I'm a consistent, Hard Working and a highly motivated person.
 
