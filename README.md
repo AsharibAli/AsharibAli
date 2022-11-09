@@ -13,10 +13,12 @@
 → I feel it is crucial to demonstrate the importance of my job duties and
 expectations.
 
-→ I am looking to improve my position in the work force.
+→ I am looking to improve my position in the workforce.
+
+→ I 
 
 → I want to expand my knowledge and skills.
 
-I've 2+years of experience in community management,
-content & technical writing, graphics designs, as well
-i'm also a blockchain developer.
+I've 3+years of experience in community management, content & technical writing,
+and graphics design, as well I'm also a blockchain developer who wants to Build
+the Web3 space, like never before.
