@@ -15,8 +15,6 @@ expectations.
 
 → I am looking to improve my position in the workforce.
 
-→ I 
-
 → I want to expand my knowledge and skills.
 
 I've 3+years of experience in community management, content & technical writing,
