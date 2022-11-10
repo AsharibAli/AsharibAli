@@ -24,7 +24,7 @@
 • 📗 I'm Currently Learning from panaverse, PIAIC.<br>
 • ✨ I've 3+ years of experience in Community Management, Content &
      Technical Writing, Graphics Design, and Products Developemnt.<br>
-• 📫 Reach me via Telegram DM (@Asharib_4)<br>
+• 📫 Reach me via Telegram DM (@Asharib_4).<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on 🤝: </h3>
