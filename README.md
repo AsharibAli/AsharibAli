@@ -22,7 +22,7 @@
 • 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan.<br>
 • 📗 I'm Currently Learning from panaverse, PIAIC.<br>
 • 😉 I enjoy working with the public.<br>
-• ✨ I've 3+ years of experience in Community Management, Content &
+• ✨ I've 3+ years of experience in Community Management, Content & <br>
      Technical Writing, Graphics Design, and Products Developemnt.<br>
 • 📫 Reach me via Telegram DM (@Asharib_4).<br>
 <hr>
