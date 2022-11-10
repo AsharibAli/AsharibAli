@@ -14,7 +14,6 @@
 • 🌱 I’m currently learning advance programming stuffs.<br>
 • 👀 I am interested in Blockchain, Web3, and Metaverse.<br>
 • 💞️ I’m looking to collaborate on Products Development.<br>
-• 😉 I enjoy working with the public.<br>
 • 🚀 I'm a consistent, Hard Working, Highly Motivated Person.<br>
 • 🏆 I feel it's crucial to demonstrate importance of my job duties.<br>
 • 💯 I'm looking to improve my position in the workforce.<br>
@@ -22,6 +21,7 @@
 
 • 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan.<br>
 • 📗 I'm Currently Learning from panaverse, PIAIC.<br>
+• 😉 I enjoy working with the public.<br>
 • ✨ I've 3+ years of experience in Community Management, Content &
      Technical Writing, Graphics Design, and Products Developemnt.<br>
 • 📫 Reach me via Telegram DM (@Asharib_4).<br>
