@@ -14,10 +14,9 @@
 • 🌱 I’m currently learning advance programming stuffs.<br>
 • 👀 I am interested in Blockchain, Web3, and Metaverse.<br>
 • 💞️ I’m looking to collaborate on Products Development.<br>
-• ❤️ I'm a consistent, Hard Working and a Highly Motivated Person.<br>
 • 😉 I enjoy working with the public.<br>
-• 🏆 I feel it is crucial to demonstrate the importance of my job duties.<br>
-• 🚀 I'm a consistent, Hard Working and a Highly Motivated Person.<br>
+• 🚀 I'm a consistent, Hard Working, Highly Motivated Person.<br>
+• 🏆 I feel it's crucial to demonstrate importance of my job duties.<br>
 • 💯 I'm looking to improve my position in the workforce.<br>
 • 💬 Ask me about Fundamental & Technical Analysis
 
