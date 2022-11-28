@@ -1,9 +1,7 @@
 <!-- animation start  -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&duration=2000&pause=500&color=FF8000&center=true&vCenter=true&width=435&lines=✨Hey%2C+I'm+Asharib+Ali✨+;✨Passionate+Blockchain+Developer✨;✨Switching+the+Web2+users+to+Web3✨;✨Building+%26+Empowers+Web3+Community✨;✨Follow+to+Become+a+Web3+Developer✨)](https://git.io/typing-svg) -->
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Blockchain+Developer%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowers+the+Coomunity%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Blockchain+Developer%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowers+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 <!-- animation end  -->
@@ -62,10 +60,11 @@
 
 <hr>
 <p align="center">
-منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر <br>
-ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر <br>
-سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر <br>
-ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر <br>
-ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں <br>
+❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
+❤️ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر❤️<br>
+❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
+❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
+❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
+
 </p>
 <hr>
