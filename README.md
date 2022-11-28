@@ -1,6 +1,10 @@
 <!-- animation start  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&duration=2000&pause=500&color=FF8000&center=true&vCenter=true&width=435&lines=✨Hey%2C+I'm+Asharib+Ali✨+;✨Passionate+Blockchain+Developer✨;✨Switching+the+Web2+users+to+Web3✨;✨Building+%26+Empowers+Web3+Community✨;✨Follow+to+Become+a+Web3+Developer✨)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&duration=2000&pause=500&color=FF8000&center=true&vCenter=true&width=435&lines=✨Hey%2C+I'm+Asharib+Ali✨+;✨Passionate+Blockchain+Developer✨;✨Switching+the+Web2+users+to+Web3✨;✨Building+%26+Empowers+Web3+Community✨;✨Follow+to+Become+a+Web3+Developer✨)](https://git.io/typing-svg) -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Blockchain+Developer%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowers+the+Coomunity%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <!-- animation end  -->
 			
@@ -24,7 +28,7 @@
 • 📗 I'm Currently Learning from panaverse, PIAIC.<br>
 • ✨ I've 3+ years of experience in Community Management, Content &
      Technical Writing, Graphics Design, and Products Developemnt.<br>
-• 📫 Reach me via Telegram DM (@Asharib_4).<br>
+• 📫 Reach me via Telegram DM (@AsharibAli).<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on 🤝: </h3>
