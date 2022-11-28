@@ -17,8 +17,8 @@
 • 👀 I'm interested in Blockchain, Web3, and Metaverse<br>
 • 💞️ I’m looking to collaborate on Products Development<br>
 • 😉 I enjoy working with the public<br>
-• 🏆 I feel it is crucial to demonstrate the importance of my job duties<br>
-• 🚀 I'm a Consistent, Hard working and a Highly Motivated person<br>
+• 🏆 I feel it is important to demonstrate my job duties<br>
+• 🚀 I'm a Consistent, Hard working and Motivated person<br>
 • 💯 I'm looking to improve my Position in the workforce<br>
 • 💬 Ask me about Fundamental & Technical analysis<br>
 • 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan<br>
