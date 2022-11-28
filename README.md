@@ -12,29 +12,28 @@
 
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3 and Metaverse Entrepreneur.<br>
-• 🌱 I’m currently learning advance programming stuffs.<br>
-• 👀 I am interested in Blockchain, Web3, and Metaverse.<br>
-• 💞️ I’m looking to collaborate on Products Development.<br>
-• ❤️ I'm a consistent, Hard Working and a Highly Motivated Person.<br>
-• 😉 I enjoy working with the public.<br>
-• 🏆 I feel it is crucial to demonstrate the importance of my job duties.<br>
-• 🚀 I'm a consistent, Hard Working and a Highly Motivated Person.<br>
-• 💯 I'm looking to improve my position in the workforce.<br>
-• 💬 Ask me about Fundamental & Technical Analysis
-• 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan.<br>
-• 📗 I'm Currently Learning from panaverse, PIAIC.<br>
-• ✨ I've 3+ years of experience in Community Management, Content &
-     Technical Writing, Graphics Design, and Products Developemnt.<br>
-• 📫 Reach me via Telegram DM (@AsharibAli).<br>
+• 💪🏻 I'm a Web3 and Metaverse Enthusiast<br>
+• 🌱 I’m currently Learning advance Programming stuffs<br>
+• 👀 I'm interested in Blockchain, Web3, and Metaverse<br>
+• 💞️ I’m looking to collaborate on Products Development<br>
+• 😉 I enjoy working with the public<br>
+• 🏆 I feel it is crucial to demonstrate the importance of my job duties<br>
+• 🚀 I'm a Consistent, Hard working and a Highly Motivated person<br>
+• 💯 I'm looking to improve my Position in the workforce<br>
+• 💬 Ask me about Fundamental & Technical analysis<br>
+• 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan<br>
+• 📗 I'm currently Learning from panaverse, PIAIC<br>
+• ✨ I've 3+ years of experience in Community management, Content & <br>
+   Technical Writing, Graphics Design, and Products Developemnt<br>
+• 📫 Reach me via Telegram DM (@AsharibAli)<br>
 <hr>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on 🤝: </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on 🤝: </h3>
  
  
-<p align="center">
+<p align="left">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/0xAsharib">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>   
 	    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asharibali/">
