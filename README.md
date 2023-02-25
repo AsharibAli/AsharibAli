@@ -48,17 +48,6 @@
 
 </p>
 
-<hr>
-<p align="center">
-❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
-❤️ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر❤️<br>
-❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
-❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
-❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
-
-</p>
-<hr>
-
 
 <h2>:label: Github Stats</h2>
 
@@ -81,4 +70,15 @@
 | <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
 | <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
-| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | 
+| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
+
+<hr>
+<p align="center">
+❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
+❤️ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر❤️<br>
+❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
+❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
+❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
+
+</p>
+<hr>
