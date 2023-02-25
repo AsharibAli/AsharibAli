@@ -34,27 +34,18 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/0xAsharib">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>   
-	    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asharibali/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AsharibAli">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.fiverr.com/asharibarain">
-				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://t.me/AsharibAli">
-					<img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/asharibarain4/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@1_VD">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/asharib.imtiaz">
-				<img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://linktr.ee/asharibali">
-				<img src="https://img.icons8.com/doodle/40/000000/tree--v2.png" ></a>
-            <img src="https://komarev.com/ghpvc/?username=AsharibAli&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="AsharibAli" align="right" />
-	</div>
+<div>   
+    <a href="mailto:asharibarain4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
+    <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a>
+    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
+    <a href="https://linkedin.com/asharibali" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
+    <a href="https://facebook.com/asharib.imtiaz" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Asharib Ali- Facebook"></a>
+    <a href="https://www.Instagram.com/asharibarain4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Asharib Ali-Instagram"></a>
+    <a href="https://youtube.com/@0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Asharib Ali-Youtube"></a>
+    <a href="https://www.fiverr.com/asharibarain" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Asharib Ali-fiverr"></a>
+    <br>
+</div>
+
 </p>
 
 <hr>
@@ -67,3 +58,27 @@
 
 </p>
 <hr>
+
+
+<h2>:label: Github Stats</h2>
+
+<div>
+    <a href="#"><img alt="Asharib Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Asharib Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=asharibali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Asharib Ali Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=asharibali&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <br>
+</div>
+
+<h2>⚡ Skills</h2>
+
+| # | # | # | # |
+| :------------ | :--------------- | :----- | :----- 
+| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
+| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | 
