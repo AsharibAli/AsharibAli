@@ -28,12 +28,12 @@
 • 📫 Reach me via Telegram DM (@AsharibAli)<br>
 <hr>
 
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on 🤝: </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
  
  
-<p align="left">
+<p align="center">
 
- <div align="left"  class="icons-social" style="margin-left: 10px;">
+ <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:asharibarain4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
     <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a>
