@@ -21,6 +21,7 @@
 • 🚀 I'm a Consistent, Hard working and Motivated person<br>
 • 💯 I'm looking to improve my Position in the workforce<br>
 • 💬 Ask me about Fundamental & Technical analysis<br>
+• 🌊 I'm specialized in Prompt Engineering<br>
 • 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan<br>
 • 📗 I'm currently Learning from panaverse, PIAIC<br>
 • ✨ I've 3+ years of experience in Community management, Content & <br>
