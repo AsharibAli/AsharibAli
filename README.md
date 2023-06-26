@@ -44,6 +44,7 @@
     <a href="https://www.Instagram.com/asharibarain4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Asharib Ali-Instagram"></a>
     <a href="https://youtube.com/@0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Asharib Ali-Youtube"></a>
     <a href="https://www.fiverr.com/asharibarain" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Asharib Ali-fiverr"></a>
+<a href="https://asharibali.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F" alt="Asharib Ali-Medium"></a>
     <br>
 </div>
 
