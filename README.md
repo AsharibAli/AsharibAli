@@ -13,18 +13,18 @@
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 • 💪🏻 I'm a Web3 and Metaverse Enthusiast<br>
-• 🌱 I’m currently Learning advance Programming stuffs<br>
+• 🌱 I’m currently Learning advanced Programming stuffs<br>
 • 👀 I'm interested in Blockchain, Web3, and Metaverse<br>
-• 💞️ I’m looking to collaborate on Products Development<br>
+• 💞️ I’m looking to collaborate on product development <br>
 • 😉 I enjoy working with the public<br>
 • 🏆 I feel it is important to demonstrate my job duties<br>
-• 🚀 I'm a Consistent, Hard working and Motivated person<br>
+• 🚀 I'm a Consistent, Hard-working and Motivated person<br>
 • 💯 I'm looking to improve my Position in the workforce<br>
 • 💬 Ask me about Fundamental & Technical analysis<br>
 • 🌊 I'm specialized in Prompt Engineering<br>
-• 👨‍💻 A Web3 Devloper from Nawabshah, Pakistan<br>
-• 📗 I'm currently Learning from panaverse, PIAIC<br>
-• ✨ I've 3+ years of experience in Community management, Content & <br>
+• 👨‍💻 A Web3 Developer from Nawabshah, Pakistan<br>
+• 📗 I'm currently Learning from Panaverse, PIAIC<br>
+• ✨ I've 3+ years of experience in Community Management, Content & <br>
    Technical Writing, Graphics Design, and Products Developemnt<br>
 • 📫 Reach me via Telegram DM (@AsharibAli)<br>
 <hr>
