@@ -25,7 +25,7 @@
 • 👨‍💻 A Web3 Developer from Nawabshah, Pakistan<br>
 • 📗 I'm currently Learning from Panaverse, PIAIC<br>
 • ✨ I've 3+ years of experience in Community Management, Content & <br>
-   Technical Writing, Graphics Design, and Products Developemnt<br>
+   Technical Writing, Graphics & UI/UX Designs, and Products Developemnt.<br>
 • 📫 Reach me via Telegram DM (@AsharibAli).<br>
 <hr>
 
