@@ -23,7 +23,7 @@
 • 💬 Ask me about Fundamental & Technical analysis<br>
 • 🌊 I'm specialized in Prompt Engineering<br>
 • 👨‍💻 A Web3 Developer from Nawabshah, Pakistan<br>
-• 📗 I'm currently Learning from Panaverse, PIAIC<br>
+• 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • ✨ I have 3+ years of experience in Community Management, Content & <br>
    Technical Writing, Graphics & UI/UX Designs, and Products Developemnt.<br>
 • 📫 Reach me via Telegram DM (@AsharibAli).<br>
