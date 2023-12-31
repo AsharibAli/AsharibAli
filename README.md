@@ -12,8 +12,8 @@
 
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3 and Metaverse Enthusiast.<br>
-• 🌱 I’m currently Learning advanced Programming stuffs<br>
+• 💪🏻 I'm a Web3, Metaverse, and AI Enthusiast.<br>
+• 🌱 I’m currently Learning advanced Programming stuffs.<br>
 • 👀 I'm interested in Blockchain, Web3, and Metaverse<br>
 • 💞️ I’m looking to collaborate on product development <br>
 • 😉 I enjoy working with the public<br>
