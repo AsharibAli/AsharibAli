@@ -12,17 +12,12 @@
 
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, Metaverse, and AI Enthusiast.<br>
+• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.<br>
-• 👀 I'm interested in Blockchain, Web3, and Metaverse.<br>
-• 💞️ I’m looking to collaborate on product development <br>
-• 😉 I enjoy working with the public<br>
-• 🏆 I feel it is important to demonstrate my job duties<br>
 • 🚀 I'm a Consistent, Hard-working and Motivated person<br>
-• 💯 I'm looking to improve my Position in the workforce<br>
-• 💬 Ask me about Fundamental & Technical analysis<br>
+• 💯 I'm looking to improve my Position in the workforce<b>
 • 🌊 I'm specialized in Prompt Engineering<br>
-• 👨‍💻 A Web3 Developer from Nawabshah, Pakistan<br>
+• 👨‍💻 A full-stack Developer from Nawabshah, Pakistan<br>
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • ✨ I have 3+ years of experience in Community Management, Content & <br>
    Technical Writing, Graphics & UI/UX Designs, and Products Developemnt.<br>
