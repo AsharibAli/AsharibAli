@@ -20,7 +20,7 @@
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • ✨ I have 3+ years of experience in Community Management, Content & <br>
    Technical Writing, Graphics & UI/UX Designs, and Products Developemnt.<br>
-• 📫 Reach me via Telegram DM (@AsharibAli)!<br>
+• 📫 Reach me via Telegram DM (@AsharibAli).<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
