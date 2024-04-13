@@ -16,7 +16,7 @@
 • 🌱 I’m currently Learning advanced Programming stuffs.<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 🌊 I'm specialized in Prompt Engineering.<br>
-• 👨‍💻 A full-stack Developer from Nawabshah, Pakistan.<br>
+• 👨‍💻 A full-stack Developer from Pakistan.<br>
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • ✨ I have 3+ years of experience in Community Management, Content & <br>
    Technical Writing, Graphics & UI/UX Designs, and Products Development.<br>
