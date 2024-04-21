@@ -18,7 +18,7 @@
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
 • 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.<br>
-• 📗 I'm currently Teaching at GIAIC, and managing the official community on Discord as a Student Ambassador.<br>
+• 📗 I'm currently Teaching Programming to 3k+ Students at GIAIC, and managing the official community of 50k+ on Discord as a Student Ambassador.<br>
 • ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content &
    Technical Writing.<br>
 • 📫 Reach me via Telegram DM (@AsharibAli).<br>
