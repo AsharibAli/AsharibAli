@@ -21,7 +21,7 @@
 • 📗 I'm currently Teaching Programming to Thousands of Students at GIAIC, and managing & leading the official community of GIAIC on Discord as a Student Ambassador.<br>
 • ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content &
    Technical Writing.<br>
-• 📫 Reach me via Telegram DM (@AsharibAli).<br>
+• 📫 Reach me via Telegram DM (@AsharibAli)!<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
