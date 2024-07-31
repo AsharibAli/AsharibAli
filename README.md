@@ -31,7 +31,7 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:asharibarain4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
+    <a href="mailto:asharibali@proton.me" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
     <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a>
     <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
     <a href="https://linkedin.com/in/asharibali" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
