@@ -1,7 +1,7 @@
 <!-- animation start  -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Developer.+Designer.+Manager%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowering+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Developer.+Designer.+Manager%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowering+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+and+AI+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 <!-- animation end  -->
@@ -11,18 +11,21 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 <hr>
-<h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 • 💪🏻 I'm a Web3, and AI Enthusiast.<br>
 • 👨‍💻 I'm a full-stack Developer from Pakistan.<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
 • 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.<br>
-• 📗 I'm currently Teaching Programming to 1500+ Students at GIAIC, while managing & leading the 30k+ GIAIC community on Discord as a Student Ambassador.<br>
+• 🧑‍💻 I'm currently Teaching Programming to 1500+ Students at GIAIC, while managing & leading the 30k+ GIAIC community on Discord as a Student Ambassador.<br>
 • ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content &
    Technical Writing.<br>
 • 📫 Reach me via Telegram DM (@AsharibAli)!<br>
 <hr>
+
+<h2 align="center">:label: Github Stats</h2>
+
+<a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
  
@@ -33,7 +36,7 @@
 <div>   
     <a href="mailto:asharibali@proton.me" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
     <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a>
-    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
+    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
     <a href="https://linkedin.com/in/asharibali" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
     <a href="https://facebook.com/asharib.imtiaz" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Asharib Ali- Facebook"></a>
     <a href="https://www.Instagram.com/0xasharib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Asharib Ali-Instagram"></a>
@@ -44,11 +47,6 @@
 </div>
 
 </p>
-
-
-<h2>:label: Github Stats</h2>
-
-<a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
 
 <div>
     <a href="#"><img alt="Asharib Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
