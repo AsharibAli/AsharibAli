@@ -4,7 +4,7 @@
 
 ---
 
-### GitHub Fun Zone 🎢
+### 🎢 GitHub Fun Zone:
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asharibali&show_icons=true&bg_color=0D1117&title_color=004080&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/></a>
