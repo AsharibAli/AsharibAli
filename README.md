@@ -15,6 +15,7 @@
 
 #### 🌍 Let's Connect:
 <div align="center">
+    <a href="https://asharib.xyz"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
     <a href="mailto:asharibali@proton.me"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
     <a href="https://linkedin.com/in/asharibali"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
     <a href="https://twitter.com/0xAsharib"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a>
