@@ -2,7 +2,7 @@
   <a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
 </div>
 
----
+<!-- ---
 
 ### 🎢 GitHub Fun Zone:
 
@@ -21,4 +21,4 @@
     <a href="https://linkedin.com/in/asharibali"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
     <a href="https://twitter.com/0xAsharib"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="Twitter"></a>
     <a href="https://t.me/AsharibAli"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00AFFF" alt="Telegram"></a>
-</div>
+</div> -->
